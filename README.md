@@ -1,2 +1,3 @@
 # RustExamples
-some simple examples in Rust
+
+* hello_World (simple hello world example)
